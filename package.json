@@ -9,8 +9,6 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@next/swc-wasm-nodejs": "^16.3.5",
-    "@next/swc-win32-x64-msvc": "^16.3.5",
     "autoprefixer": "^10.6.0",
     "enhanced-resolve": "^5.25.0",
     "lucide-react": "^1.45.0",
